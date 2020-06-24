@@ -1,4 +1,4 @@
-# Chatbott
+# Chatbot
 considering you as a friend a conversational chatbot makes conversation with you... 
 
 
