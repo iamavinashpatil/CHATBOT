@@ -1,0 +1,9 @@
+# Chatbott
+considering you as a friend a conversational chatbot makes conversation with you... 
+
+
+Using rasa and python i have created it...
+using rasa-x we can give it proper user interface design and deploy it on browser...
+
+chatbot conversation on cmd image URL                 --->  https://drive.google.com/file/d/1Z2O10m687HPbXNFM34sH8zxwwjOoe2cf/view?usp=sharing
+chatbot conversation on browser using rasa-x image URL ---> https://drive.google.com/file/d/1KeVqM9IYcwpekRTd7yyolJR1BtoKX2qg/view?usp=sharing
